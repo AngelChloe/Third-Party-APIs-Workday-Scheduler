@@ -22,3 +22,7 @@ I am using a daily planner to create a schedule:
 
 How to Use
 Once you've opened the application, click on any text area to the right of the hour you wish to create a task. Then, type out the task that you want and click the save button on the end of the row.
+
+The following is a screen shot of my project.  It goes all the way to 10:00 PM but could not capture all of it.
+
+![schedule screen shot](https://user-images.githubusercontent.com/105569378/178165300-e927f6a2-48bf-4d4f-9938-7222c3448e65.png)
