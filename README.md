@@ -19,8 +19,10 @@ I am using a daily planner to create a schedule:
 - Added a 
 
 Live Link:
+https://cinderbeast.github.io/Third-Party-APIs/
 
-github link: https://github.com/Cinderbeast/Third-Party-APIs
+github link: 
+https://github.com/Cinderbeast/Third-Party-APIs
 
 How to Use Once you've opened the application, click on any text area to the right of the hour you wish to create a task. Then, type out the task that you want and click the save button on the end of the row.
 
