@@ -21,6 +21,7 @@ I am using a daily planner to create a schedule:
 - When I refresh the page then the saved events persist.
 
 Live Link:
+![screen shot schedule](https://user-images.githubusercontent.com/105569378/179364702-9aae4f7e-25d1-49ec-86b3-249a97a0d243.png)
 
 github link:
 https://github.com/Cinderbeast/Third-Party-APIs
