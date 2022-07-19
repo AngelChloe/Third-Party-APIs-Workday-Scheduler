@@ -19,7 +19,7 @@ I am using a daily planner to create a schedule:
 - Added a 
 
 Live Link:
-https://cinderbeast.github.io/Third-Party-APIs/
+Cinderbeast.github.io/Third-Party-APIs/
 
 github link: 
 https://github.com/Cinderbeast/Third-Party-APIs
