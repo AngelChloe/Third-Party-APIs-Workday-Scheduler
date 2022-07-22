@@ -16,7 +16,7 @@ I am using a daily planner to create a schedule:
 - I click the save button for that timeblock, then the text for that event is saved in local storage
 - When I refresh the page then the saved events persist.
 - If I did not click the save button for the event, will not be saved when I refresh
-- Added a 
+- Click on "Clear Day" button to top of page to clear the day
 
 Live Link:
 https://cinderbeast.github.io/Third-Party-APIs/
