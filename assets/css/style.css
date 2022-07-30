@@ -19,8 +19,6 @@ body {
     text-align: center;
     background-size: cover;
     background-image: url("https://th.bing.com/th/id/OIP.S-jVmwn_YNAVN9w2b5wt1AHaEK?w=328&h=184&c=7&r=0&o=5&dpr=1.25&pid=1.7");
-    /* background-image: url("https://w.wallhaven.cc/full/zx/wallhaven-zxx6mw.png"); */
-    
     background-color: transparent;
     color: black;
     border-radius: 0;
@@ -91,3 +89,4 @@ body {
     font-size: 40px;
     transition: all .3s ease-in-out;
   }
+ 
