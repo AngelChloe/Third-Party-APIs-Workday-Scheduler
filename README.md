@@ -18,11 +18,11 @@ I am using a daily planner to create a schedule:
 - If I did not click the save button for the event, will not be saved when I refresh
 - Click on "Clear Day" button to top of page to clear the day
 
-Live Link:
-https://cinderbeast.github.io/Third-Party-APIs/
+** Live Link:
+https://github.com/Cinderbeast/Third-Party-APIs-Workday-Scheduler
 
-github link: 
-https://github.com/Cinderbeast/Third-Party-APIs
+** Github link: 
+https://github.com/https://github.com/Cinderbeast/Third-Party-APIs-Workday-Scheduler
 
 
 The following is a screen shot of my project. It goes runs from 7:00 AM to 7:00 PM
