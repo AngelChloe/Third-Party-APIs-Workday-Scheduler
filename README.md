@@ -23,7 +23,7 @@ I am using a daily planner to create a schedule:
  https://angelchloe.github.io/Third-Party-APIs-Workday-Scheduler/
 
 ## Github link: 
-https://github.com/https://github.com/Cinderbeast/Third-Party-APIs-Workday-Scheduler
+https://github.com/AngelChloe/Third-Party-APIs-Workday-Scheduler
 
 The following is a screen shot of my project. It goes runs from 7:00 AM to 7:00 PM
 
