@@ -20,7 +20,7 @@ I am using a daily planner to create a schedule:
 - Click on "Clear Day" button to top of page to clear the day
 
 ## Live Link:
-https://angelchloe.github.io/2-Advanced-CSS-Portfolio/
+ https://angelchloe.github.io/Third-Party-APIs-Workday-Scheduler/
 
 ## Github link: 
 https://github.com/https://github.com/Cinderbeast/Third-Party-APIs-Workday-Scheduler
